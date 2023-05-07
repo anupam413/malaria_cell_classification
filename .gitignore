@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+cell_images/
+env/
+models/vgg_malaria.h5
+models/inception_resnet_malaria.h5
+
+report.docx
+kaggle.json
